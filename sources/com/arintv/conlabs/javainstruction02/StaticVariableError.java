@@ -16,7 +16,7 @@ public class StaticVariableError {
 		
 		final int a = 50; // 정수형 a 상수는 50으로 고정
 
-		a = 20; // 컴파일러 오류! 고정된 숫자는 변경할 수 없습니다.
+		// a = 20; // 컴파일러 오류! 고정된 숫자는 변경할 수 없습니다.
 	}
 
 }
